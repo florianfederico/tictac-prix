@@ -7,7 +7,7 @@ L'objectif est de mettre en pratique les cours de la spécialité informatique.
 L'application s'inspire du jeu du "juste prix" qui consiste à faire deviner le prix d'un objet avec un temps limité en indiquant "plus" ou "moins".
 
 <p align="left">
-  <img src="readme/01-accueil.png" alt="" width="200"/>
+  <img src="readme/01-accueil.PNG" alt="" width="600"/>
 </p>
 
 ## Outils utilisés
