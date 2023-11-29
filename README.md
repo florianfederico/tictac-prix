@@ -1,21 +1,14 @@
 # TicTac...Prix
 > Projet étudiant de développement en langage C
 
-<p align="center">
-  <img src="readme/Animation.gif" alt="" width="400"/>
-</p>
-
 TicTac...Prix est un projet de développement en C réalisé en 2013 par une équipe de 3 étudiants en Terminale.
 L'objectif est de mettre en pratique les cours de la spécialité informatique.
 
 L'application s'inspire du jeu du "juste prix" qui consiste à faire deviner le prix d'un objet avec un temps limité en indiquant "plus" ou "moins".
 
-## Fonctionnalités
-
 <p align="left">
-  <img src="readme/02-planche.png" alt="" width="200"/>
+  <img src="readme/01-accueil.png" alt="" width="200"/>
 </p>
-
 
 ## Outils utilisés
 * Bibliothèque graphique : SDL
